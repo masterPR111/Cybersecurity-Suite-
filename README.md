@@ -1,6 +1,6 @@
 # Cybersecurity-Suite-
 Cybersecurity Suite - Professional Security Toolkit
-
+Screenshot_2026-07-03_08_18_32.png
 # 🛡️ Cybersecurity Suite
 
 Professional Security Toolkit with 20+ Tools
@@ -34,6 +34,6 @@ Professional Security Toolkit with 20+ Tools
 ### Option 1: Clone (Terminal)
 ```bash
 https://github.com/masterPR111/Cybersecurity-Suite-.git
-cd cybersecurity-suite
+cd Cybersecurity-Suite-
 pip install -r requirements.txt
 python3 cybersuite.py
