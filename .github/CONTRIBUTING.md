@@ -2,8 +2,6 @@
 
 ## 📝 **CONTRIBUTING.md - Complete Content**
 
-**මෙය copy කරලා `.github/CONTRIBUTING.md` ලෙස save කරන්න:**
-
 ```markdown
 # 🤝 Contributing to Cybersecurity Suite
 
