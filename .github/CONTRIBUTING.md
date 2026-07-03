@@ -1,23 +1,5 @@
 ---
 
-## 📁 **Folder Structure එක**
-
-```
-Cybersecurity-Suite-/
-├── .github/
-│   ├── CONTRIBUTING.md          ← මෙය
-│   ├── ISSUE_TEMPLATE/
-│   │   ├── bug_report.md
-│   │   └── feature_request.md
-│   └── PULL_REQUEST_TEMPLATE.md
-├── cybersuite.py
-├── README.md
-├── LICENSE
-└── requirements.txt
-```
-
----
-
 ## 📝 **CONTRIBUTING.md - Complete Content**
 
 **මෙය copy කරලා `.github/CONTRIBUTING.md` ලෙස save කරන්න:**
