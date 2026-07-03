@@ -1,8 +1,9 @@
+```markdown
+---
+title: Contributing to Cybersecurity Suite
+description: Guidelines for contributing to this project
 ---
 
-## 📝 **CONTRIBUTING.md - Complete Content**
-
-```markdown
 # 🤝 Contributing to Cybersecurity Suite
 
 First off, thank you for considering contributing to Cybersecurity Suite! 🎉 It's people like you that make this open-source project great.
