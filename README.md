@@ -1,6 +1,6 @@
 # Cybersecurity-Suite-
 Cybersecurity Suite - Professional Security Toolkit
-Screenshot_2026-07-03_08_18_32.png
+
 # 🛡️ Cybersecurity Suite
 
 Professional Security Toolkit with 20+ Tools
