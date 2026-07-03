@@ -33,7 +33,7 @@ Professional Security Toolkit with 20+ Tools
 
 ### Option 1: Clone (Terminal)
 ```bash
-git clone https://github.com/masterPR111/cybersuite.git
-cd cybersuite
+https://github.com/masterPR111/Cybersecurity-Suite-.git
+cd Cybersecurity-Suite
 pip install -r requirements.txt
 python3 cybersuite.py
