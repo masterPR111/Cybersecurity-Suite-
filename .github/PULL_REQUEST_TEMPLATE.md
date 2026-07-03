@@ -16,5 +16,3 @@
 - [ ] Documentation updated
 - [ ] No breaking changes
 
-## Screenshots (if applicable)
-[Screenshot_2026-07-03_08_18_32.png]
